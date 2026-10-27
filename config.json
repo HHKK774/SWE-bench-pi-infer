@@ -1,0 +1,6 @@
+{
+  "inferences": [
+    {"label": "qwen-plain", "model": "sagemaker-qwen3-q6/qwen38-27b-uncensored-q6-sm", "routing": false},
+    {"label": "qwen-routing", "model": "sagemaker-qwen3-q6/qwen38-27b-uncensored-q6-sm", "routing": true}
+  ]
+}

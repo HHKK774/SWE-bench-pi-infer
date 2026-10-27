@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Test / run records
+RUNS.md
+HISTORY.md
+logs/
+trajectories/
+runs.db
+runs.jsonl
+
+# OS
+.DS_Store
